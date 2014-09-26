@@ -5,6 +5,7 @@
 	color:#fff;
 }
 body {
+	background: url(intro-bg.jpg) no-repeat center center;
 	background-size: cover; 
 }
 
@@ -15,4 +16,9 @@ body {
 	margin-right: auto;
 	background: url(painting1.jpg) no-repeat center center;
 	background-size: cover;
+}
+
+.signup-form {
+	color: #fff;
+	text-align: center;
 }
