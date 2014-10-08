@@ -12,8 +12,8 @@ body {
 
 
 .painting1 {
-	width: 400px;
-	height: 600px;
+	width: 600px;
+	height: 800px;
 	margin-left: auto;
 	margin-right: auto;
 	background: url(painting1.jpg) no-repeat center center;
@@ -46,6 +46,43 @@ body {
 	color: #FFF;
 
 }
+
+.painting3 {
+	width: 600px;
+	height: 800px;
+	padding-top: 50%;
+	padding-bottom: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(cityscape.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.spacebetween3 {
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 5%;
+	color: #FFF;
+}
+
+.painting4 {
+	width: 600px;
+	height: 800px;
+	padding-top: 50%;
+	padding-bottom: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(landscape.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.spacebetween4 {
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 5%;
+	color: #FFF;
+}
+
 
 .signup-form {
 	font: #FFF;
