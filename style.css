@@ -3,6 +3,7 @@ body {
 	background-attachment: fixed;
 }
 .intro-message {
+	font-size: 1;
 	text-align: center;
 	padding-top: 10%;
 	padding-bottom: 5%;
